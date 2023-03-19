@@ -53,7 +53,7 @@ def clean_up(seq):
     return non_DNA
 """
 This function is designed to analyze an inputed sequence and clean the sequence
-to result in DNA nucleatides.
+to result in DNA nucleotides.
 
 """
 def rev_comp(seq):
